@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PillowFort</string>
+    <string name="pillowfort_description">Pillowfort is the number one online provider of online cloud security and encryption services in cloudland</string>
+    <string name="pillowfort_welcome_title">Welcome to PillowFort</string>
+    <string name="small_pillowfort_icon">small pillowfort icon</string>
+    <string name="pillowfort_address">2701 Bouncy Castle road, Trampoline City</string>
+    <string name="open_hours">open 09:00 - 17:00, 24/7</string>
+    <string name="pillowfort_app_logo">pillowfort app logo</string>
+</resources>
